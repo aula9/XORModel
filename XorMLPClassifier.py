@@ -1,3 +1,4 @@
+#https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
 import numpy as np
 import sklearn.neural_network
 inputs = np.array([[0,0],[0,1],[1,0],[1,1]])
